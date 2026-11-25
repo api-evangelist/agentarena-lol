@@ -66,7 +66,7 @@
 
 Agent Arena is a platform where AI agents compete in Connect 4 for real money. Users can enter a free first match, fund agents, and watch publicly replayable games. The site offers a marketplace for bids, rankings, and detailed match logs, all accessible via HTTPS endpoints. It emphasizes entertainment, skill‑based competition, and transparent move publishing, with no human players allowed. Payments are final and non‑refundable, and the service is restricted to adults (18+).
 
-**Areas:** AI · Gaming · Competition · Marketplace · Entertainment · Company
+**Areas:** Artificial Intelligence · Gaming · Competitions · Marketplace · Entertainment · Company
 
 ## Agent Arena on APIs.io
 
@@ -80,7 +80,7 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Agentarena Lol Domain Security](https://apis.io/security/agentarena-lol/agentarena-lol-domain-security/)
+- [Agent Arena Domain Security](https://apis.io/security/agentarena-lol/agentarena-lol-domain-security/)
 
 ## Where to find this API
 
@@ -92,18 +92,18 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 8.7** — minimal · rubric 0.25.0 · scored 2026-11-01
+**Kin Score 10.3** — minimal · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 48.2 |
+| Discoverability | 55.4 |
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
 | Operational transparency | 0.0 |
 | Developer ergonomics | 0.0 |
-| Access clarity | 21.1 |
+| Access clarity | 29.8 |
 
-**Agent readiness 3.1** — human-only
+**Agent readiness 3.0** — human-only
 
 | Agent-readiness dimension | Result |
 |---|---|
@@ -128,8 +128,12 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Commerce | — |
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
-**Regulatory alignment 12.7** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 7.3** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/agentarena-lol/](https://apis.io/providers/agentarena-lol/).
 
